@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.sm-img{
+    width: 400px;
+}
+.col p{
+    text-align: center;
+}
+
+.progress {
+    height: 2rem;
+}
